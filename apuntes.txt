@@ -1,0 +1,6 @@
+Instalar dependencia de desarrollo npm install sass --save-dev
+Instalar dependencias de desarrollo npm install
+
+//GLUP
+
+//Snippets ctrl shift p -> User Snippets --> Buscar el lenguaje por ejemplo scss
